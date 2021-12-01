@@ -125,7 +125,7 @@ Metodo DisplayChanged.
 
 Al ejecutar esta sintaxis obtenemos la primera perspectiva de un cubo que presenta una sombra debido a una fuente de luz cercana en ambiente semi iluminado.
 
-![11](https://user-images.githubusercontent.com/72088585/144151319-8dc39ee0-78f8-4281-a267-bc4f6dcbe6e3.png)
+![11](https://user-images.githubusercontent.com/72088585/144151433-f7e63853-01e4-4b38-a0e3-eeeb1d4e3572.png)
 
 
 
